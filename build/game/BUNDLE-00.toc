@@ -1,0 +1,3 @@
+([('game',
+   '/Users/musubimanagement/Desktop/car-race-python-game/dist/game',
+   'EXECUTABLE')],)
